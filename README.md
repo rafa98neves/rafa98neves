@@ -1,6 +1,22 @@
 # 🤓 About Me:
-I'm a <b>Senior Frontend Engineer</b> with close to 5 years of experience specializing in <b>TypeScript</b> and building modern, scalable web applications. Currently, I work at Unbabel, where I play a key role in developing and maintaining one of our core products, Portal, which is composed of multiple microfrontends.<br><br>🌟 What I do:<br>Frontend Development: I work primarily with Vue.js (and have expertise in both Vue 2 and Vue 3), crafting engaging and performant user interfaces.<br>Architecture: I help design scalable solutions for complex applications, including monorepo organization, CI/CD optimizations, and supporting multiple versions of technology stacks simultaneously.<br>Collaboration: I enjoy mentoring teammates, leading technical initiatives, and continuously improving processes to create a seamless developer experience.<br><br>💡 Fun facts about me:<br>I first fell in love with frontend development while working on a venue manager web app during an internship, using Vue.js.<br>I’m passionate about UI/UX challenges, especially accessibility and intuitive design.<br>I’m eager to dive deeper into the React ecosystem and explore other frontend technologies.<br><br>📫 Let's connect:<br>If you'd like to collaborate or chat about frontend development, feel free to reach out!
+I'm a <b>Senior Frontend Engineer</b> with close to 5 years of experience specializing in <b>TypeScript</b> and building modern, scalable web applications. Currently, I work at Unbabel, where I play a key role in developing and maintaining one of our core products, Portal, which is composed of multiple microfrontends.<br><br>
 
+## 🌟 What I do:
+<ul>
+ <li> <b>Frontend Development</b>: I work primarily with Vue.js (and have expertise in both Vue 2 and Vue 3), crafting engaging and performant user interfaces. </li>
+ <li> <b>Architecture</b>: I help design scalable solutions for complex applications, including monorepo organization, CI/CD optimizations, and supporting multiple versions of technology stacks simultaneously.</li>
+ <li> <b>Collaboration</b>: I enjoy mentoring teammates, leading technical initiatives, and continuously improving processes to create a seamless developer experience.</li>
+</ul>
+
+## 💡 Fun facts about me:
+<ul>
+ <li> I first fell in love with frontend development while working on a venue manager web app during an internship, using Vue.js. </li>
+ <li> I’m passionate about UI/UX challenges, especially accessibility and intuitive design.</li>
+ <li> I’m eager to dive deeper into the React ecosystem and explore other frontend technologies.</li>
+</ul>
+
+## 📫 Let's connect:<br>
+If you'd like to collaborate or chat about frontend development, feel free to reach out!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rafa98neves/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neves98rafael/) 
