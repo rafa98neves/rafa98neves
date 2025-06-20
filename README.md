@@ -1,5 +1,5 @@
 # 🤓 About Me:
-I'm a <b>Senior Frontend Engineer</b> with close to 5 years of experience specializing in <b>TypeScript</b> and building modern, scalable web applications. Currently, I work at Unbabel, where I play a key role in developing and maintaining one of our core products, Portal, which is composed of multiple microfrontends.<br><br>
+I'm a <b>Senior Frontend Engineer</b> @zkipster with close to 5 years of experience specializing in <b>TypeScript</b> and building modern, scalable web applications.<br><br>
 
 ## 🌟 What I do:
 <ul>
